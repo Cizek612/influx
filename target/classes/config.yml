@@ -1,0 +1,12 @@
+messages:
+  "test":
+    message:
+      enabled: true
+      value:
+        - "[rainbow]Welcome, %name%![/rainbow]"
+        - "&dWe are currently in [gradient:FFFFFF-881337]beta[/gradient]&d."
+    sound:
+      enabled: true
+      value: "FIZZ"
+      volume: 1
+      pitch: 1

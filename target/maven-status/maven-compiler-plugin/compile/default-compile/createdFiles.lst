@@ -1,0 +1,15 @@
+com\gabrielvidaljr\influx\listener\PlayerJoin.class
+com\gabrielvidaljr\influx\message\impl\MessageBuilder.class
+com\gabrielvidaljr\influx\conditions\RainbowCondition.class
+com\gabrielvidaljr\influx\conditions\VersionCondition$1.class
+com\gabrielvidaljr\influx\conditions\GradientCondition.class
+com\gabrielvidaljr\influx\message\message\InfluxMessage.class
+com\gabrielvidaljr\influx\message\message\impl\Message.class
+com\gabrielvidaljr\influx\message\registry\MessageRegistry.class
+com\gabrielvidaljr\influx\logger\InfluxLogger.class
+com\gabrielvidaljr\influx\conditions\VersionCondition$SearchMode.class
+com\gabrielvidaljr\influx\conditions\VersionCondition.class
+com\gabrielvidaljr\influx\InfluxSpigotPlugin.class
+com\gabrielvidaljr\influx\message\InfluxMessageBuilder.class
+com\gabrielvidaljr\influx\patterns\Service.class
+com\gabrielvidaljr\influx\patterns\Registry.class

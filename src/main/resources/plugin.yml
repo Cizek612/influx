@@ -1,0 +1,5 @@
+name: Influx
+version: ${project.version}
+main: com.gabrielvidaljr.influx.InfluxSpigotPlugin
+authors: [ Consciences ]
+description: A cutting edge library with various useful utilities!
